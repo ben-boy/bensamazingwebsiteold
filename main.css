@@ -1,0 +1,23 @@
+body {
+  background-image: url("Assets/Images/background.png");
+  background-size:cover;
+  font-family: cursive;
+  text-align: center;
+}
+
+.white {
+  color: white;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+form {
+  text-align: center;
+  margin: 0 auto;
+}
+
+input {
+  width: 50px
+}
